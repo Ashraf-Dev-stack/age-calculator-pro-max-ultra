@@ -21,12 +21,12 @@ That's about 465,470,971 seconds
 Or 465,470,971,043 milliseconds 🔥 
 Or 465,470,971,043,369 microseconds... you're ancient 😂 
 
-How to run:
+### How to run:
 1. Install the library: pip install python-dateutil
 2. Run the file: python main.py
 3. Prepare to question your existence 🤯
 
-Warning:
+### Warning:
 May cause existential crisis. Use at your own risk 😂
 
 ---
