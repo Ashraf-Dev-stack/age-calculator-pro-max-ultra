@@ -1,4 +1,4 @@
-# Age Calculator Pro Max Ultra 🔥🤯
+# Age Calculator Pro Max Ultra 🔥
 
 The most insane age calculator on GitHub.
 
