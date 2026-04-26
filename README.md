@@ -24,7 +24,7 @@ Or 465,470,971,043,369 microseconds... you're ancient 😂
 ### How to run:
 1. Install the library: pip install python-dateutil
 2. Run the file: python main.py
-3. Prepare to question your existence 🤯
+3. Prepare to question your existence 
 
 ### Warning:
 May cause existential crisis. Use at your own risk 😂
