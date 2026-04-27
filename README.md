@@ -1,33 +1,38 @@
-# Age Calculator Pro Max Ultra 🔥
+<div align="center">
 
-The most insane age calculator on GitHub.
+# 💀 Age Calculator Pro Max Ultra 💀
+The most accurate age calculator in the galaxy - counts your age in MICROSECONDS
 
-### Why is it Pro Max Ultra?
-Because it tells you your age in:
-- Years, Months, Days
-- Seconds
-- Milliseconds 
-- Microseconds
-- With a hacker-style typing effect ⌨️
+<img src="https://img.shields.io/github/stars/Ashraf-Dev-stack/age-calculator-pro-max-ultra?style=social" />
+<img src="https://img.shields.io/github/forks/Ashraf-Dev-stack/age-calculator-pro-max-ultra?style=social" />
+<img src="https://img.shields.io/badge/Python-3.8+-blue.svg" />
 
-### Output Example:
- 
---- Age Calculator Pro --- 
-Enter your birth date: YYYY-MM-DD 
-Your birth date: 20011-07-27 
-You have been alive for: 
-14 years, 8 months, 30 days 
-That's about 465,470,971 seconds 
-Or 465,470,971,043 milliseconds 🔥 
-Or 465,470,971,043,369 microseconds... you're ancient 😂 
+</div>
 
-### How to run:
-1. Install the library: `pip install python-dateutil`
-2. Run the file: `python main.py`
-3. Prepare to question your existence 
+## ✨ Why Pro Max Ultra?
+- Calculates your age in MICROSECONDS, not just years
+- Tells you exactly how many seconds you've lived 
+- Funny comments that make you laugh while calculating your age
+- Existential Crisis Mode activated 💀
+- 100% accurate using Python's datetime
 
-### Warning:
-May cause existential crisis. Use at your own risk 😂
+## 🚀 Try it now
+```bash
+git clone https://github.com/Ashraf-Dev-stack/age-calculator-pro-max-ultra.git
+cd age-calculator-pro-max-ultra
+python age_calculator.py
 
----
-**Made by Ashraf-Dev-stack** 💪
+## Output Example
+Enter your birth year: 2010
+Enter your birth month: 5
+Enter your birth day: 15
+
+💀 You are 15 years, 5 months, 12 days old
+⚡ That's 484,704,000 seconds...
+🕒 Or 484,704,000,000,000 microseconds of pure existence
+😂 Life is short, go code something!
+
+ Tech Stack
+- Python 3.8+
+- datetime module
+- A lot of existential thoughts 💀
